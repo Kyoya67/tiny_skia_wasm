@@ -1,0 +1,8 @@
+[package]
+name = "tiny_circle"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tiny-skia = "0.11" # 2D ラスタライザ
+image = "0.25"     # PNG 保存用
